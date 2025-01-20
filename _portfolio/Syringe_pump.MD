@@ -12,11 +12,7 @@ gallery:
 
 ## Overview
 
-Text
-
-## Features
-
-Text
+This syringe pump was created as part of Vanderbilt's rapid prototyping class. The pump is capable of delivering consistant flow rates between 1 uL / min and 10 mL / min for either a large syringe (18.5 mm in diameter) or a small syringe (14.5 mm in diameter). It is contolled by an arduino, powered by a stepper motor, and contains 6 custom 3D printed components. The limit switch mounted on the right end support automatically stops the pump when the syringe is empty and the forward and backward buttons allow for easy replacement of the syringe. All electronics are housed in a waterproof case and an LED indicator is included to show the pump status (on, paused, and empty). 
 
 ## 3D Model
 
@@ -51,10 +47,10 @@ Text
 | Component | Material | Purpose |
 |-----------|----------|---------|
 | Motor Mount | ABS | Houses motor, couplings, and bearings |
+| Lead screw support | ABS | Holds left end of linear rod |
 | Carriage | ABS | Holds syringe plunger and moves along lead screw |
-| End Support | ABS | Supports syringe body and bearings |
-| Barrel Support | ABS | Holds syringe barrel |
-| Lead Screw Cover | ABS | Aesthetic cover for unused lead screw portion |
+| Left End Support | ABS | Supports syringe body and bearings |
+| Right End Support | ABS | Holds syringe tip |
 | Case | PLA | Houses electronics |
 | Case Top | PLA | Secures aluminum extrusion |
 
