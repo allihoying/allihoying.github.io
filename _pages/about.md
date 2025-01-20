@@ -1,31 +1,55 @@
 ---
 
-title: "About David Florian"
+title: "About Alli Hoying"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Alli is involved at Vanderbilt through a variety of avenues - notably through her senior design partnership with Yaya Scientific and her role as CSO in the Vanderbilt Fusion Project
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Biomedical Engineering
+  * Minor: Digital Fabrication
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Alli is capable of utilizing multiple fabrication and programming technologies such as the following:
 
-* Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* Matlab Programming
+* Arduino
+* CAD (SolidWorks & Fusion360)
+* GQIS
+* Laser cutting
+* Fused filament fabrication
 
-## Press 
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+Index
 
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+---
+title: "About me"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/img/Home-Banner-Image.jpeg
+  actions:
+    - label: "My Projects"
+      url: "/portfolio/"
+excerpt: "Alli Hoying is a biomedical engineer with a digital fabrication minor and an extensive safety and regulatory compliance background. Her areas of expertise include SolidWorks, Matlab programming, and OSHA compliance"
+feature_row:
+  - image_path: assets/img/Fusion_reactor_2.jpg
+    alt: "IEC Fusion Reactor"
+    title: "IEC Fusion Reactor"
+    excerpt: "50 kV intertial electrostatic confinement nuclear fusion reactor"
+  - image_path: assets/img/Syringe_pump.jpg
+    alt: "Syringe Pump"
+    title: "Syringe Pump"
+    excerpt: "Syringe pump capable of delivering flow rates from 1 uL / min to 10 mL / min"
+  - image_path: assets/img/Nerve_phantom.png
+    title: "Phantom Nerve"
+    excerpt: "Optical imaging phantom used to mimic nerve optical properties and calibrate a DRS imaging device"
+---
+
+{% include feature_row %}
+
