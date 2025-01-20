@@ -54,7 +54,7 @@ Atlanta, GA | May 2023- August 2023
 
 ## Technical Skills
 
-Alli is capable of utilizing multiple fabrication and programming technologies such as the following:
+I am capable of utilizing multiple fabrication and programming technologies such as the following:
 
 * Matlab Programming
 * Arduino
