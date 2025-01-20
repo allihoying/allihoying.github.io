@@ -10,7 +10,7 @@ I will be graduating from Vanderbilt Univeristy in the spring of 2025 with a deg
 
 ## Education
 
-Alli is involved at Vanderbilt through a variety of avenues - notably through her senior design partnership with Yaya Scientific and her role as CSO in the Vanderbilt Fusion Project
+I am involved at Vanderbilt through a variety of avenues - notably through my senior design partnership with Yaya Scientific and my role as CSO in the Vanderbilt Fusion Project. 
 
 * Vanderbilt University
   * BS Biomedical Engineering
