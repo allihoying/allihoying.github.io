@@ -60,11 +60,17 @@ Text
 
 ## Arduino Code
 
-The arduino code controls the syringe pump’s flow rate, led indicators, and forward/backward movement. The code used can be found [here](https://github.com/allihoying/syringe_code/blob/main/Ardunio_code). 
+The arduino code controls the syringe pump’s flow rate, LED indicators, and forward/backward movement. The code used can be found [here](https://github.com/allihoying/syringe_code/blob/main/Ardunio_code). 
 
 ## Operating Instructions
 
-Text
+1. Plug in the power supply  
+2. In the arduino code, set the flow rate and syringe diameter variables to the desired values  
+3. Plug the arduino into a computer and upload the code  
+4. Load the syringe into the pump (the forward and backward buttons can be used to move the carriage into the correct position to fit the syringe)  
+5. Press the power button to start the pump  
+6. Press the power button again to pause the pump  
+7. Watch the LED indicator to see the pump status. It will be green while running, yellow while paused, and red when empty. 
 
 ## Gallery
 
