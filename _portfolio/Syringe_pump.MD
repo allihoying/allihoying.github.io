@@ -60,7 +60,7 @@ Text
 
 ## Arduino Code
 
-Text
+The arduino code controls the syringe pump’s flow rate, led indicators, and forward/backward movement. The code used can be found [here](https://github.com/allihoying/syringe_code/blob/main/Ardunio_code). 
 
 ## Operating Instructions
 
