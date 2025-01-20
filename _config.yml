@@ -105,7 +105,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/allihoying"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/alli-hoying"
 
 
@@ -116,7 +116,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/allihoying"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin-in"
       url: "https://linkedin.com/in/alli-hoying"
 
 
