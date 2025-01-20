@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "About me"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,20 +8,19 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Alli Hoying is a biomedical engineer with a digital fabrication minor and an extensive safety and regulatory compliance background. Her areas of expertise include SolidWorks, Matlab programming, and OSHA compliance"
 feature_row:
-  - image_path: assets/img/CNC-Mill-Thumbnail.jpg
-    alt: "CNC Mill"
-    title: "Custom CNC Milling Machine"
-    excerpt: "Built for fabricating aluminum and steel parts."
-  - image_path: assets/img/Plasma-Cutter-Banner.jpg
-    alt: "placeholder image 2"
-    title: "DIY Plasma Cutter"
-    excerpt: "A hot plasma stream slices through sheet metal."
-  - image_path: assets/img/Zidex-Thumbnail.jpg
-    title: "Bespoke IDEX 3D Printer"
-    excerpt: "Multimaterial printing. "
+  - image_path: assets/img/Fusion_reactor_2.jpg
+    alt: "IEC Fusion Reactor"
+    title: "IEC Fusion Reactor"
+    excerpt: "50 kV intertial electrostatic confinement nuclear fusion reactor"
+  - image_path: assets/img/Syringe_pump.jpg
+    alt: "Syringe Pump"
+    title: "Syringe Pump"
+    excerpt: "Syringe pump capable of delivering flow rates from 1 uL / min to 10 mL / min"
+  - image_path: assets/img/Nerve_phantom.png
+    title: "Phantom Nerve"
+    excerpt: "Optical imaging phantom used to mimic nerve optical properties and calibrate a DRS imaging device"
 ---
 
 {% include feature_row %}
-
