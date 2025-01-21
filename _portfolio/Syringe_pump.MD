@@ -1,6 +1,6 @@
 ---
 title: "Syringe Pump"
-excerpt: "A linear actuator-controlled syringe pump"
+excerpt: "Syringe pump capable of delivering flow rates from 1 uL / min to 10 mL / min"
 header:
   image: assets/img/Syringe_pump.jpg
   teaser: assets/img/render syringe pump.jpg
