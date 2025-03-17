@@ -10,7 +10,7 @@ gallery:
    
 ---
 
-**Introduction**
+## Introduction
 
 Microfluidic devices are used to test small amounts of liquids, usually blood, for disease markers. By using a small amount of liquid, the blood required from the patient and the amount of antibodies and other reagents required to test the blood is limited, leading to cheaper tests. The channels in microfluidic devices can be as small as 60 micrometers, making surface tension the dominant force effecting the fluid’s movement. This movement can be manipulated by the shape, size, and pathways of the channels, leading to either mixing or separating of specific particles
 
@@ -28,7 +28,7 @@ D \= particle diameter
 
 Pinched flow fractionation in microfluidic devices can be used for many medical applications: for example, separating cancer cells from white blood cells \[1\]. Because circulating tumor cells in the blood of cancer patients can lead to the formation of new tumors in secondary sites, it would be beneficial to separate these cells out of the blood to prevent metastases formation. This method of cell separation could also be used to diagnose cancer early on if these cells are found in the blood before a tumor forms. Catching cancer early is one of the best ways to increase treatment effectiveness, so finding the cells before they form tumors could increase life expectancy of cancer patients.
 
-**Instructions**
+## Instructions
 
 1\.     CAD model
 
@@ -65,17 +65,17 @@ Pinched flow fractionation in microfluidic devices can be used for many medical 
 * Bond PDSM devices to glass slides using a PlasmaFlo PDC-FMG plasma cleaner  
 * Sterilize with an autoclave
 
-**Discussion**
+## Discussion
 
   Parylene is an FDA USP Class VI polymer that creates a hydrophobic barrier, which is impermeable to small molecules, water, and gases. The coating preserves the integrity of devices in the body, and nanometer thick films are commonly deposited on implanted medical devices \[2\]. Resin printed molds must be coated with parylene prior to casting the PDMS since most resins are cytotoxic and cannot be used in applications involving cells. The parylene coating stops toxic material from leaching out of the 3D print and allows the devices to be used as master molds for PDMS devices. After the mold has been created, the biocompatible microfluidic device could easily be used for applications such as blood testing. If small amounts of antibodies were placed in one inlet and blood was placed in the other, a microfluidic mixer could successfully detect many different medical conditions. Microfluidic sorters could also be used for several biomedical applications such as cancer research, separating stem cells, or separating blood cells.
 
   The geometry of the mixer shown in this example is capable of sorting 2 different particle sizes, 125-150 um and 425-500 um. Using the equation shown in the introduction, I found that the smaller particles would end up between 16.625 mm and 17.021 mm on the Y axis. Conversely, the larger molecules would end up between 11.083 mm and 12.271 mm on the Y axis. Four outlet channels with equal cross sectional areas were used to expel the liquid and particles. However, due to spatial constraints caused by the 11 mm barbs, the lengths of the channels vary. The width the particles were able to separate (Wd) was 19 mm, as the slide was 25 mm wide with a 3 mm buffer on either side. The pinch point was 0.75 mm wide, which is 1.5x the 500 um particle size. Since resistance is limited by the smallest outlet (the 1.50 mm diameter barb exit) and the cross sectional area of each channel is the same, the flow rate through each channel should be similar. Therefore, even though the channels are different lengths, the streamlines should be consistent enough to maintain proper separation. However, to improve sorting effectiveness in the future, smaller barbs will be used to ensure that all of the channels can be the same length.
 
-**CAD Model**
+## CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d405d63c3d0f40fc?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-**References**
+## References
 
 \[1\] Pødenphant, M., Ashley, N., Koprowska, K., Mir, K. U., Zalkovskij, M., Bilenberg, B., Bodmer, W., Kristensen, A., & Marie, R. (2015). Separation of cancer cells from white blood cells by pinched flow fractionation. Lab on a Chip, 15(24), 4598–4606. https://doi.org/10.1039/c5lc01014d
 
