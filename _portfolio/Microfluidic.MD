@@ -38,7 +38,7 @@ Pinched flow fractionation in microfluidic devices can be used for many medical 
 * Channel size \= must be 1.2 – 1.5 times the diameter of the largest particle. The length, width, and depth of the outlet channels should be consistent to create equal resistance and flow rates.  
 * Channel placement \= outlet channels should be placed at specific Y axis heights to collect each particle separately. See equation in the introduction to calculate specific heights.
 
-  2\.     Print and cure mold:
+2\.     Print and cure mold:
 
 * Resin print the mold using 0.025 mm or 0.05 mm layer height  
 * When printing, ensure that the bottom of the mold is flat and parallel to the resin vat  
@@ -48,28 +48,27 @@ Pinched flow fractionation in microfluidic devices can be used for many medical 
 * Perform a 60 second spot cure with support on  
 * Remove support material
 
-  3\.     Parylene device:
+3\.     Parylene device:
 
 * Transfer cured prints into a Labcoter parylene deposition machine  
 * Coat the mold with parylene to create a hydrophobic and biocompatible barrier
 
-  4\.     Cast PDMS:
+4\.     Cast PDMS:
 
 * Mix PDSM elastomer (Sylgard 184; Ellsworth Adhesive Company) and a curing agent at a 10:1 ratio  
 * Pour the mixture onto the print  
 * Degass for 30 minutes in a vacuum chamber  
 * Cure in an oven at 80 C for 3 hours
 
-  5\.     Plasma bond glass slide:
+5\.     Plasma bond glass slide:
 
 * Bond PDSM devices to glass slides using a PlasmaFlo PDC-FMG plasma cleaner  
 * Sterilize with an autoclave
 
 **Discussion**
 
-        	 Parylene is an FDA USP Class VI polymer that creates a hydrophobic barrier, which is impermeable to small molecules, water, and gases. The coating preserves the integrity of devices in the body, and nanometer thick films are commonly deposited on implanted medical devices \[2\]. Resin printed molds must be coated with parylene prior to casting the PDMS since most resins are cytotoxic and cannot be used in applications involving cells. The parylene coating stops toxic material from leaching out of the 3D print and allows the devices to be used as master molds for PDMS devices. After the mold has been created, the biocompatible microfluidic device could easily be used for applications such as blood testing. If small amounts of antibodies were placed in one inlet and blood was placed in the other, a microfluidic mixer could successfully detect many different medical conditions. Microfluidic sorters could also be used for several biomedical applications such as cancer research, separating stem cells, or separating blood cells.
-
-        	The geometry of the mixer shown in this example is capable of sorting 2 different particle sizes, 125-150 um and 425-500 um. Using the equation shown in the introduction, I found that the smaller particles would end up between 16.625 mm and 17.021 mm on the Y axis. Conversely, the larger molecules would end up between 11.083 mm and 12.271 mm on the Y axis. Four outlet channels with equal cross sectional areas were used to expel the liquid and particles. However, due to spatial constraints caused by the 11 mm barbs, the lengths of the channels vary. The width the particles were able to separate (Wd) was 19 mm, as the slide was 25 mm wide with a 3 mm buffer on either side. The pinch point was 0.75 mm wide, which is 1.5x the 500 um particle size. Since resistance is limited by the smallest outlet (the 1.50 mm diameter barb exit) and the cross sectional area of each channel is the same, the flow rate through each channel should be similar. Therefore, even though the channels are different lengths, the streamlines should be consistent enough to maintain proper separation. However, to improve sorting effectiveness in the future, smaller barbs will be used to ensure that all of the channels can be the same length.
+Parylene is an FDA USP Class VI polymer that creates a hydrophobic barrier, which is impermeable to small molecules, water, and gases. The coating preserves the integrity of devices in the body, and nanometer thick films are commonly deposited on implanted medical devices \[2\]. Resin printed molds must be coated with parylene prior to casting the PDMS since most resins are cytotoxic and cannot be used in applications involving cells. The parylene coating stops toxic material from leaching out of the 3D print and allows the devices to be used as master molds for PDMS devices. After the mold has been created, the biocompatible microfluidic device could easily be used for applications such as blood testing. If small amounts of antibodies were placed in one inlet and blood was placed in the other, a microfluidic mixer could successfully detect many different medical conditions. Microfluidic sorters could also be used for several biomedical applications such as cancer research, separating stem cells, or separating blood cells.
+The geometry of the mixer shown in this example is capable of sorting 2 different particle sizes, 125-150 um and 425-500 um. Using the equation shown in the introduction, I found that the smaller particles would end up between 16.625 mm and 17.021 mm on the Y axis. Conversely, the larger molecules would end up between 11.083 mm and 12.271 mm on the Y axis. Four outlet channels with equal cross sectional areas were used to expel the liquid and particles. However, due to spatial constraints caused by the 11 mm barbs, the lengths of the channels vary. The width the particles were able to separate (Wd) was 19 mm, as the slide was 25 mm wide with a 3 mm buffer on either side. The pinch point was 0.75 mm wide, which is 1.5x the 500 um particle size. Since resistance is limited by the smallest outlet (the 1.50 mm diameter barb exit) and the cross sectional area of each channel is the same, the flow rate through each channel should be similar. Therefore, even though the channels are different lengths, the streamlines should be consistent enough to maintain proper separation. However, to improve sorting effectiveness in the future, smaller barbs will be used to ensure that all of the channels can be the same length.
 
 \[1\] Pødenphant, M., Ashley, N., Koprowska, K., Mir, K. U., Zalkovskij, M., Bilenberg, B., Bodmer, W., Kristensen, A., & Marie, R. (2015). Separation of cancer cells from white blood cells by pinched flow fractionation. Lab on a Chip, 15(24), 4598–4606. https://doi.org/10.1039/c5lc01014d
 
