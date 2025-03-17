@@ -71,6 +71,12 @@ Pinched flow fractionation in microfluidic devices can be used for many medical 
 
   The geometry of the mixer shown in this example is capable of sorting 2 different particle sizes, 125-150 um and 425-500 um. Using the equation shown in the introduction, I found that the smaller particles would end up between 16.625 mm and 17.021 mm on the Y axis. Conversely, the larger molecules would end up between 11.083 mm and 12.271 mm on the Y axis. Four outlet channels with equal cross sectional areas were used to expel the liquid and particles. However, due to spatial constraints caused by the 11 mm barbs, the lengths of the channels vary. The width the particles were able to separate (Wd) was 19 mm, as the slide was 25 mm wide with a 3 mm buffer on either side. The pinch point was 0.75 mm wide, which is 1.5x the 500 um particle size. Since resistance is limited by the smallest outlet (the 1.50 mm diameter barb exit) and the cross sectional area of each channel is the same, the flow rate through each channel should be similar. Therefore, even though the channels are different lengths, the streamlines should be consistent enough to maintain proper separation. However, to improve sorting effectiveness in the future, smaller barbs will be used to ensure that all of the channels can be the same length.
 
+**CAD Model**
+
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d405d63c3d0f40fc?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+**References**
+
 \[1\] Pødenphant, M., Ashley, N., Koprowska, K., Mir, K. U., Zalkovskij, M., Bilenberg, B., Bodmer, W., Kristensen, A., & Marie, R. (2015). Separation of cancer cells from white blood cells by pinched flow fractionation. Lab on a Chip, 15(24), 4598–4606. https://doi.org/10.1039/c5lc01014d
 
 \[2\] O’Grady, B. J., Geuy, M. D., Kim, H., Balotin, K. M., Allchin, E. R., Florian, D. C., Bute, N. N., Scott, T. E., Lowen, G. B., Fricker, C. M., Fitzgerald, M. L., Guelcher, S. A., Wikswo, J. P., Bellan, L. M., & Lippmann, E. S. (2021). Rapid prototyping of cell culture microdevices using parylene-coated 3D prints. Lab on a Chip, 21(24), 4814–4822. https://doi.org/10.1039/d1lc00744k
