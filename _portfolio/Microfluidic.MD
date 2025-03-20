@@ -77,7 +77,7 @@ Pinched flow fractionation in microfluidic devices can be used for many medical 
 
 ## Gallery
 
-{% include gallery caption="3D render and final product" %}
+{% include gallery caption="Molded Microfluidic Device" %}
 
 ## References
 
