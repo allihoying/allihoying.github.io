@@ -5,8 +5,8 @@ header:
   image: assets/img/Microfluidic cad.png
   teaser: assets/img/Microfluidic cad.png
 gallery:
-  - image_path: assets/img/Syringe_pump.jpg
-  - image_path: assets/img/render syringe pump.jpg
+  - image_path: assets/img/Microfluidic front mold.jpg
+  - image_path: assets/img/Microfluidic side mold.jpg
    
 ---
 
@@ -74,6 +74,8 @@ Pinched flow fractionation in microfluidic devices can be used for many medical 
 ## CAD Model
 
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4d405d63c3d0f40fc?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+## Gallery
 
 ## References
 
