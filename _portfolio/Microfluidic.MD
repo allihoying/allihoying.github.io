@@ -2,8 +2,8 @@
 title: "Microfluidic Sorter"
 excerpt: "Microfluidic device capable of separating 125-150 um particles from 425-500 um particles"
 header:
-  image: assets/img/Syringe_pump.jpg
-  teaser: assets/img/render syringe pump.jpg
+  image: assets/img/Microfluidic cad.png
+  teaser: assets/img/Microfluidic cad.png
 gallery:
   - image_path: assets/img/Syringe_pump.jpg
   - image_path: assets/img/render syringe pump.jpg
