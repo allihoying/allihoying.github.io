@@ -77,6 +77,8 @@ Pinched flow fractionation in microfluidic devices can be used for many medical 
 
 ## Gallery
 
+{% include gallery caption="3D render and final product" %}
+
 ## References
 
 \[1\] Pødenphant, M., Ashley, N., Koprowska, K., Mir, K. U., Zalkovskij, M., Bilenberg, B., Bodmer, W., Kristensen, A., & Marie, R. (2015). Separation of cancer cells from white blood cells by pinched flow fractionation. Lab on a Chip, 15(24), 4598–4606. https://doi.org/10.1039/c5lc01014d
