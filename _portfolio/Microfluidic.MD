@@ -7,6 +7,7 @@ header:
 gallery:
   - image_path: assets/img/Microfluidic front mold.jpg
   - image_path: assets/img/Microfluidic side mold.jpg
+  - image_path: assets/img/Finished mold.jpg
    
 ---
 
@@ -77,7 +78,7 @@ Pinched flow fractionation in microfluidic devices can be used for many medical 
 
 ## Gallery
 
-{% include gallery caption="Molded Microfluidic Device" %}
+{% include gallery caption="Molded microfluidic device" %}
 
 ## References
 
