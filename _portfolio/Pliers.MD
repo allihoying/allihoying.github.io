@@ -3,7 +3,7 @@ title: "Multi-Material Pliers"
 excerpt: "PLA and TPU pliers capable of picking up resistors"
 header:
   image: assets/img/Pliers Vert.jpg
-  teaser: assets/img/Pliers Horizontal.jpg
+  teaser: assets/img/IMG_0190.jpg
 gallery:
   - image_path: assets/img/Pliers v1.png
   - image_path: assets/img/Pliers v2.png
