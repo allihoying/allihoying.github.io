@@ -9,6 +9,7 @@ gallery:
   - image_path: assets/img/Pliers v2.png
   - image_path: assets/img/Pliers v3.png
   - image_path: assets/img/Pliers final.png
+  - image_path: assets/img/Pliers GIF.GIF
    
 ---
 
@@ -34,10 +35,4 @@ The final pliers the handles were set 49 mm apart, the jaws were set 8 mm apart,
 
 ## Gallery
 
-{% include gallery caption="Design Iterations" %}
-
-## Gif
-
-![][image1]
-
-[image1]: (assets/img/Pliers final.png)
+{% include gallery caption="Design Iterations and GIF" %}
