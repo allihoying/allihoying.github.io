@@ -19,7 +19,6 @@ The goal of this project was to create multi material needle nose pliers capable
 For filaments to bond well together, they should have surface energy, chemical composition, shrinkage, cooling rates, and mechanical compatibility. For this application, PLA and TPU are used, but PLA can also be printed with PVA and ABS can be printed with HIPs.
 
 ## CAD
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4b1e4dc6141f18eb7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"\>\</iframe\>
 
 ## Design
 
