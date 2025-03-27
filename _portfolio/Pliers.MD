@@ -3,7 +3,7 @@ title: "Multi-Material Pliers"
 excerpt: "PLA and TPU pliers capable of picking up resistors"
 header:
   image: assets/img/Pliers Vert.jpg
-  teaser: assets/img/IMG_0190.jpg
+  teaser: assets/img/Pliers final.png
 gallery:
   - image_path: assets/img/Pliers v1.png
   - image_path: assets/img/Pliers v2.png
@@ -19,7 +19,6 @@ The goal of this project was to create multi material needle nose pliers capable
 For filaments to bond well together, they should have surface energy, chemical composition, shrinkage, cooling rates, and mechanical compatibility. For this application, PLA and TPU are used, but PLA can also be printed with PVA and ABS can be printed with HIPs.
 
 ## CAD
-
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4b1e4dc6141f18eb7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"\>\</iframe\>
 
 ## Design
@@ -37,4 +36,4 @@ The final pliers the handles were set 49 mm apart, the jaws were set 8 mm apart,
 {% include gallery caption="Design Iterations" %}
 
 ## Gif
-![image](assets/img/Pliers_GIF.GIF)
+![alt text](assets/img/Pliers_GIF.GIF)
