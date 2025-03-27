@@ -37,4 +37,6 @@ The final pliers the handles were set 49 mm apart, the jaws were set 8 mm apart,
 {% include gallery caption="Design Iterations" %}
 
 ## Gif
-![image](assets/img/Pliers v1.png)
+
+![alt](assets/img/Syringe_pump.jpg)
+
