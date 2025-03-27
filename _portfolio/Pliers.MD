@@ -2,25 +2,28 @@
 title: "Multi-Material Pliers"
 excerpt: "PLA and TPU pliers capable of picking up resistors"
 header:
-  image: assets/img/Syringe_pump.jpg
-  teaser: assets/img/render syringe pump.jpg
+  image: assets/img/Pliers Horizontal.jpg
+  teaser: assets/img/Pliers Vert.jpg
 gallery:
-  - image_path: assets/img/Syringe_pump.jpg
-  - image_path: assets/img/render syringe pump.jpg
+  - image_path: assets/img/Pliers v1.png
+  - image_path: assets/img/Pliers v2.png
+  - image_path: assets/img/Pliers v3.png
+  - image_path: assets/img/Pliers final.png
+  - image_path: assets/img/Pliers GIF.GIF
    
 ---
 
-##Overview – Print in Place
+## Overview – Print in Place
 
 The goal of this project was to create multi material needle nose pliers capable of picking up resistors using only a FFF 3D printer. The base of the pliers was created using PLA for a more sturdy grip, while TPU was used to create a flexible spring \- allowing the pliers to close and then return to the open position when relaxed. These pliers can be made using print in place technology, which requires no post processing. This can be done using an FFF printer with multiple extruders or splicing filaments in a single extruder, both of which allow multiple materials to be printed at the same time. Some applications for multi material printing and print in place technologies include creating hinges, creating helmets with padding, or creating flexible supports in robots.
 
 For filaments to bond well together, they should have surface energy, chemical composition, shrinkage, cooling rates, and mechanical compatibility. For this application, PLA and TPU are used, but PLA can also be printed with PVA and ABS can be printed with HIPs.
 
-##CAD
+## CAD
 
 \<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4b1e4dc6141f18eb7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"\>\</iframe\>
 
-##Design
+## Design
 
 The pliers were created using two different materials that were connected using dovetail links. When extruding in CAD, both handles, both jaws, and the flexible center piece were turned into different bodies and separately printed. The handles and jaws were printed in PLA, while the center piece was printed in TPU. After the pieces were finished, they were press fit together to form a tight connection.  
 
@@ -30,8 +33,8 @@ The handles and jaws were changed multiple times in CAD to create the appropriat
 
 The final pliers the handles were set 49 mm apart, the jaws were set 8 mm apart, and the springy center component was 25 mm wide.
 
-##Gallery
+## Gallery
 
 {% include gallery caption="Design Iterations" %}
 
-##Gif
+## Gif
