@@ -2,14 +2,13 @@
 title: "Multi-Material Pliers"
 excerpt: "PLA and TPU pliers capable of picking up resistors"
 header:
-  image: assets/img/Pliers Horizontal.jpg
-  teaser: assets/img/Pliers Vert.jpg
+  image: assets/img/Pliers Vert.jpg
+  teaser: assets/img/Pliers Horizontal.jpg
 gallery:
   - image_path: assets/img/Pliers v1.png
   - image_path: assets/img/Pliers v2.png
   - image_path: assets/img/Pliers v3.png
   - image_path: assets/img/Pliers final.png
-  - image_path: assets/img/Pliers GIF.GIF
    
 ---
 
@@ -21,7 +20,7 @@ For filaments to bond well together, they should have surface energy, chemical c
 
 ## CAD
 
-\<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4b1e4dc6141f18eb7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"\>\</iframe\>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4b1e4dc6141f18eb7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"\>\</iframe\>
 
 ## Design
 
@@ -38,3 +37,4 @@ The final pliers the handles were set 49 mm apart, the jaws were set 8 mm apart,
 {% include gallery caption="Design Iterations" %}
 
 ## Gif
+![image](assets/img/Pliers GIF.GIF)
