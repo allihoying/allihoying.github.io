@@ -37,4 +37,4 @@ The final pliers the handles were set 49 mm apart, the jaws were set 8 mm apart,
 {% include gallery caption="Design Iterations" %}
 
 ## Gif
-![image](assets/img/Pliers GIF.GIF)
+![image](assets/img/Pliers_GIF.GIF)
