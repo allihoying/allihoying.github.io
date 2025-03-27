@@ -20,6 +20,8 @@ For filaments to bond well together, they should have surface energy, chemical c
 
 ## CAD
 
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4b1e4dc6141f18eb7?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ## Design
 
 The pliers were created using two different materials that were connected using dovetail links. When extruding in CAD, both handles, both jaws, and the flexible center piece were turned into different bodies and separately printed. The handles and jaws were printed in PLA, while the center piece was printed in TPU. After the pieces were finished, they were press fit together to form a tight connection.  
@@ -35,4 +37,4 @@ The final pliers the handles were set 49 mm apart, the jaws were set 8 mm apart,
 {% include gallery caption="Design Iterations" %}
 
 ## Gif
-![alt text](assets/img/Pliers_GIF.GIF)
+![image](assets/img/Pliers v1.png)
