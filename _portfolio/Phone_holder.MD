@@ -2,9 +2,10 @@
 title: "Rotating Bike Phone Holder"
 excerpt: "3D printed phone holder for bike handles that is capable of rotating"
 header:
-  image: assets/img/Renter_front.png
-  teaser: assets/img/DR_real_ballbearing.jpg
+  image: assets/img/DR_real_ballbearing.jpg
+  teaser: assets/img/Detent_pic.png
 gallery:
+  - image_path: assets/img/Rotate_GIF.gi
   - image_path: assets/img/Detent_pic.png
   - image_path: assets/img/Section_view.png
   - image_path: assets/img/render_isometric.png
@@ -19,7 +20,6 @@ gallery:
   - image_path: assets/img/DR_mounted1.jpg
   - image_path: assets/img/DR_mounted2.jpg
   - image_path: assets/img/DR_mounted3.jpg
-  - image_path: assets/img/Rotate_GIF.gi
    
 ---
 
