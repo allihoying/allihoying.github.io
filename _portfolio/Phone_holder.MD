@@ -6,6 +6,7 @@ header:
   teaser: assets/img/Detent_pic.png
 gallery:
   - image_path: assets/img/Rotate_GIF.gi
+  - image_path: assets/img/Rotate_Gif_new.gif
   - image_path: assets/img/Detent_pic.png
   - image_path: assets/img/Section_view.png
   - image_path: assets/img/render_isometric.png
