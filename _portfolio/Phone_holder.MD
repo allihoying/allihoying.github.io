@@ -10,6 +10,7 @@ gallery:
   - image_path: assets/img/render_isometric.png
   - image_path: assets/img/Renter_front.png
   - image_path: assets/img/Render_side.png
+  - image_path: assets/img/Rotate_GIF.gif
    
 ---
 
