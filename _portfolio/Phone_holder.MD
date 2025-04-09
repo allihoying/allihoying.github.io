@@ -1,12 +1,15 @@
 ---
-title: "Syringe Pump"
-excerpt: "Syringe pump capable of delivering flow rates from 1 uL / min to 10 mL / min"
+title: "Rotating Bike Phone Holder"
+excerpt: "3D printed phone holder for bike handles that is capable of rotating"
 header:
-  image: assets/img/Syringe_pump.jpg
-  teaser: assets/img/render syringe pump.jpg
+  image: assets/img/Renter_front.png
+  teaser: assets/img/Detent_pic.png
 gallery:
-  - image_path: assets/img/Syringe_pump.jpg
-  - image_path: assets/img/render syringe pump.jpg
+  - image_path: assets/img/Detent_pic.png
+  - image_path: assets/img/Section_view.png
+  - image_path: assets/img/render_isometric.png
+  - image_path: assets/img/Renter_front.png
+  - image_path: assets/img/Render_side.png
    
 ---
 
@@ -16,47 +19,8 @@ This syringe pump was created as part of Vanderbilt's rapid prototyping class. T
 
 ## 3D Model
 
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a489decdc41ba192e9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4bacc05d0ce550897?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-## Purchased Components
-
-| Component | Quantity | Purpose |
-|-----------|----------|---------|
-| Arduino UNO | 1 | Main controller |
-| Small Breadboard | 1 | Electronics |
-| A4988 Stepper Driver | 1 | Electronics |
-| Nema 17 Stepper Motor | 1 | Drive mechanism |
-| 250 mm Lead Screw with 2 mm pitch and 8 mm lead | 1 | Linear motion |
-| 1/4" x 8mm Flexible Coupling | 1 | Rotary shaft connection |
-| 200 mm Linear Rod with 8mm diameter | 1 | Guidance and stability |
-| Flexible Coupler | 1 | Motor to lead screw connection |
-| Lead Screw Nut | 1 | Carriage movement |
-| Flange Bearings | 2 | Lead screw support |
-| LM8UU Linear Bearing for 8 mm Diameter Rod| 2 | Carriage movement |
-| MEAN WEL RQ-65D Power Supply | 1 | Power source |
-| Common Cathode LED | 1 | Status indicator |
-| Latching Push Buttons | 2 | Power and pause control |
-| Momentary Push Buttons | 2 | Direction control |
-| Limit Switch | 1 | End-of-travel detection |
-| Aluminum Extrusion | 1 | Structural support & mount |
-| M5 Machine Screws | 12 | Case assembly |
-| M5 Heat Set Inserts | 12 | Case assembly |
-
-## Custom 3D Printed Components
-
-| Component | Material | Purpose |
-|-----------|----------|---------|
-| Motor Mount | ABS | Houses motor, couplings, and bearings |
-| Lead screw support | ABS | Holds left end of linear rod |
-| Carriage | ABS | Holds syringe plunger and moves along lead screw |
-| Left End Support | ABS | Supports syringe body and bearings |
-| Right End Support | ABS | Holds syringe tip |
-| Case | PLA | Houses electronics |
-| Case Top | PLA | Secures aluminum extrusion |
-
-## Arduino Code
-
-The arduino code controls the syringe pump’s flow rate, LED indicators, and forward/backward movement. The code used can be found [here](https://github.com/allihoying/syringe_code/blob/main/Ardunio_code). 
 
 ## Operating Instructions
 
