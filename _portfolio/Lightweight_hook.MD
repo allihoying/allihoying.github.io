@@ -2,11 +2,23 @@
 title: "Lightweight Generative Design Hook"
 excerpt: "Lightweight hanging hook cabable of supporting 50 lbs"
 header:
-  image: assets/img/Syringe_pump.jpg
-  teaser: assets/img/render syringe pump.jpg
+  image: assets/img/Hookpic2.jpg
+  teaser: assets/img/Finalhookdesign.png
 gallery:
-  - image_path: assets/img/Syringe_pump.jpg
-  - image_path: assets/img/render syringe pump.jpg
+  - image_path: assets/img/Finalhookdesign.png
+  - image_path: assets/img/Hooktrial2.png
+  - image_path: assets/img/fathook1.png
+  - image_path: assets/img/Hookbag.jpg
+  - image_path: assets/img/Hookmug.jpg
+  - image_path: assets/img/Hookpic1.jpg
+  - image_path: assets/img/Hookpic2.jpg
+  - image_path: assets/img/Hookpic3.jpg
+  - image_path: assets/img/Hookpic4.jpg
+  - image_path: assets/img/Preservegeometry.png
+  - image_path: assets/img/Obstaclegeometry.png
+  - image_path: assets/img/myhookweight.jpg
+  - image_path: assets/img/whitehookweight.jpg
+  - image_path: assets/img/Bothhooks.jpg
    
 ---
 
