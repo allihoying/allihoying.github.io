@@ -19,6 +19,7 @@ gallery:
   - image_path: assets/img/myhookweight.jpg
   - image_path: assets/img/whitehookweight.jpg
   - image_path: assets/img/Bothhooks.jpg
+  - image_path: assets/img/Upliftdeskhook.png
    
 ---
 
