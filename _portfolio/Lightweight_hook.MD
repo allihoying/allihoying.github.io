@@ -3,7 +3,7 @@ title: "Lightweight Generative Design Hook"
 excerpt: "Lightweight hanging hook cabable of supporting 50 lbs"
 header:
   image: assets/img/Hookpic2.jpg
-  teaser: assets/img/Hookzoomedout.png
+  teaser: assets/img/Newhookangle.png
 gallery:
   - image_path: assets/img/Finalhookdesign.png
   - image_path: assets/img/Hooktrial2.png
